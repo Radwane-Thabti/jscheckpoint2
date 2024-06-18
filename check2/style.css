@@ -1,0 +1,45 @@
+body{
+text-align:center;
+background-color:blue;
+color:aliceblue;
+
+
+}
+body h2{
+    text-align:center;
+    background-color:rgb(255, 238, 0);
+    color:rgb(0, 0, 0);
+    
+    
+    
+    }
+.input-style{
+
+width:300px;
+height: 35px;
+border-style: none;
+
+} 
+.btn-style {
+
+    height: 38px;
+    width:100px;
+    border-style: none;
+}
+.btn-style:hover {
+
+  background-color:yellow;
+  color:black;
+}
+
+.btn-style2 {
+
+    height: 38px;
+    width:300px;
+    border-style: none;
+}
+.btn-style2:hover {
+
+  background-color:yellow;
+  color:black;
+}
